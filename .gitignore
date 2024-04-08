@@ -1,6 +1,6 @@
 # .gitignore
 .vs/
 data/
-tasks_and_uploada/
+tasks_and_uploads/
 *.csv
 *.docx
